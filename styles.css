@@ -7,7 +7,7 @@
 
 body {
   color: #020202;
-  font-size: 1rem;
+  font-size: 1.25rem;
   background: url(./img/faded-office.png);
   background-size: cover;
   background-repeat: no-repeat;
@@ -22,11 +22,11 @@ body {
   align-items: flex-start;
   justify-content: center;
   flex-direction: column;
-  gap: 2rem;
+  gap: 1.5rem;
 }
 
 .hero-head {
-  font-size: 2rem;
+  font-size: 4rem;
   font-weight: 900;
 }
 
@@ -38,6 +38,6 @@ body {
 .btn {
   color: white;
   background-color: #0ea5e9;
-  padding: 20px 25px;
+  padding: 15px 20px;
   font-weight: 800;
 }
